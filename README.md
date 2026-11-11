@@ -36,6 +36,6 @@ Some of my ongoing experiments:
 
 I'm always happy to exchange ideas about AI products, agentic systems, product engineering, and things worth building.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sohamb12/)
 
 **Explore something interesting? Open an issue. Have a different approach? I'd love to hear about it.**
